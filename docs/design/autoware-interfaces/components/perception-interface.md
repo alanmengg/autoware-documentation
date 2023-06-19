@@ -50,7 +50,6 @@ map of the environment. See Iutputs of Planning.
       - [geometry_msgs::msg::Polygon](https://docs.ros.org/en/noetic/api/geometry_msgs/html/msg/Polygon.html) polygon
       - float height
 
-
 ### Traffic Light Response
 
 traffic light signals recognized by object detection model.**The message definition is under discussion.**
